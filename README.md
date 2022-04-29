@@ -1,12 +1,15 @@
 # Skills Learned and which projects used
 
-## NodeJS
+## YesYear
+HTML + CSS
 
-## Express
-
-## MongoDB/Mongoose
-
-## Passport
+## MongooseExpress
+# - This project is a personal website designed to allow people to follow my wife and I's activities throughout the year
+HTML + CSS
+Express
+Mongoose
+Passport
+Custom Middleware
 
 <!--
 **ACarr0ll/ACarr0ll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
