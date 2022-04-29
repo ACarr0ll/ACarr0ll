@@ -5,11 +5,11 @@ HTML + CSS
 
 #### MongooseExpress
 ###### This project is a personal website designed to allow people to follow my wife and I's activities throughout the year
-- [x]HTML + CSS
-- [x]Express
-- [x]Mongoose
-- [x]Passport
-- [x]Custom Middleware
+- [x] HTML + CSS
+- [x] Express
+- [x] Mongoose
+- [x] Passport
+- [x] Custom Middleware
 
 <!--
 **ACarr0ll/ACarr0ll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
