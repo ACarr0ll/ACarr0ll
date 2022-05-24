@@ -16,6 +16,9 @@ What packages are used in mongooseExpress
 
 ## Feedback Form - Live project  [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://andrewfeedback.netlify.app/)
 
+- Full CRUD Feedback form
+- Currently working on setting up live database
+
 ## Tech
 What packages are used to create the Feedback Form
 - [React] - Javascript library for building user interfaces
